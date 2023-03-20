@@ -4,10 +4,14 @@
 Menu: [
 
 # Descrição
-Projeto de um aplicativo de gestão Escolar com um público dedicado tanto aos alunos quanto aos professores de uma escola profissionalizante
+  Projeto de um aplicativo de gestão Escolar com um público dedicado tanto aos alunos quanto aos professores de uma escola profissionalizante
 
 # Features
   - [ ] Banco de Dados
+  - [ ] Design de Interfaces
+  - [ ] Aplicativo Mobile
+  - [ ] Banner
+  - [ ] Caderno de Campo e Resumo
 
 # Ferramentas
   * MySQL WorkBench
