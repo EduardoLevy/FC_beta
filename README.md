@@ -19,14 +19,14 @@ Flutter (Dart)
 Figma
 
 #colaboradores
-  *Eduardo Levy
-  *Cloves castro
-  *Kaleb Soares
-  *Renan Soares
-  *Enderson guedes
-  *Natanael Cordeiro
-  *David Lucas
-  *Brendda Késsya
-  *Yan Lucas
+  * Eduardo Levy
+  * Cloves castro
+  * Kaleb Soares
+  * Renan Soares
+  * Enderson guedes
+  * Natanael Cordeiro
+  * David Lucas
+  * Brendda Késsya
+  * Yan Lucas
   **Professor orientador:** Neylor
   **Professor co-orientador:** Carlinhos Maia
