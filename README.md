@@ -10,9 +10,9 @@ Projeto de um aplicativo de gestão Escolar com um público dedicado tanto aos a
   [ ] Banco de Dados
 
 # Ferramentas
-MySQL WorkBench
-Flutter (Dart)
-Figma
+  * MySQL WorkBench
+  * Flutter (Dart)
+  * Figma
 
 # colaboradores
   * Eduardo Levy
