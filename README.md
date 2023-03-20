@@ -7,11 +7,7 @@ Menu: [Descrição](#Descrição) | [Features](#Features) | (Ferramentas)[#Ferra
 Projeto de um aplicativo de gestão Escolar com um público dedicado tanto aos alunos quanto aos professores de uma escola profissionalizante
 
 # Features
-  -[ ] Banco de Dados
-  -[ ] Front-end(Aplicativo Mobile)
-  -[ ] Design de interface
-  -[ ] Banner
-  -[ ] resumo e caderno de campo
+  [ ] Banco de Dados
 
 # Ferramentas
 MySQL WorkBench
