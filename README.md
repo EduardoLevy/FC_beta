@@ -1,7 +1,7 @@
 # Aplicativo Mobile <Nome aqui>
   
 # Sumário
-Menu: [Descrição](#Descrição) | [Features](#Features) | (Ferramentas)[#Ferramentas] | (Colaboradores)[#colaboradores]
+Menu: [Descrição](#Descrição) | [features](#Features) | (Ferramentas)[#Ferramentas] | (Colaboradores)[#Colaboradores]
 
 # Descrição
 Projeto de um aplicativo de gestão Escolar com um público dedicado tanto aos alunos quanto aos professores de uma escola profissionalizante
@@ -14,7 +14,7 @@ Projeto de um aplicativo de gestão Escolar com um público dedicado tanto aos a
   * Flutter (Dart)
   * Figma
 
-# colaboradores
+# Colaboradores
   * Eduardo Levy
   * Cloves castro
   * Kaleb Soares
