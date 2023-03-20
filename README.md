@@ -1,24 +1,24 @@
-#Aplicativo Mobile <Nome aqui>
+# Aplicativo Mobile <Nome aqui>
   
-#Sumário
+# Sumário
 Menu: [Descrição](#Descrição) | [Features](#Features) | (Ferramentas)[#Ferramentas] | (Colaboradores)[#colaboradores]
 
-#Descrição
+# Descrição
 Projeto de um aplicativo de gestão Escolar com um público dedicado tanto aos alunos quanto aos professores de uma escola profissionalizante
 
-#Features
+# Features
   -[ ] Banco de Dados
   -[ ] Front-end(Aplicativo Mobile)
   -[ ] Design de interface
   -[ ] Banner
   -[ ] resumo e caderno de campo
 
-#Ferramentas
+# Ferramentas
 MySQL WorkBench
 Flutter (Dart)
 Figma
 
-#colaboradores
+# colaboradores
   * Eduardo Levy
   * Cloves castro
   * Kaleb Soares
