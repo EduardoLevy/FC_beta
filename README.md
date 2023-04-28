@@ -26,7 +26,8 @@
   * Brendda Késsya
   * Yan Lucas
 
-  **Professor orientador:** Neylor | **Professor co-orientador:** Carlinhos Maia
+  **Professor orientador:** Carlos Sousa
+  
   
   
   
